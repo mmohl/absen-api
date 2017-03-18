@@ -1,0 +1,23 @@
+{
+  "name": "mobile-absen-api",
+  "version": "0.0.1",
+  "description": "api yang digunakan untuk tugas mobile programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mmohl/absen-api.git"
+  },
+  "keywords": [
+    "api",
+    "absensi"
+  ],
+  "author": "mmohluthfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmohl/absen-api/issues"
+  },
+  "homepage": "https://github.com/mmohl/absen-api#readme"
+}
